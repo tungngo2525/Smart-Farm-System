@@ -31,3 +31,8 @@ Hệ thống quản lý nông nghiệp thông minh sử dụng IoT (Internet of 
    ```bash
    git clone https://github.com/tungngo2525/Smart-Farm-System.git
    cd Smart-Farm-System/backend
+   node index.js 
+
+2. Chạy thư mục frontend
+   npm start
+   Dự án sẽ chạy trên http://localhost/3001
